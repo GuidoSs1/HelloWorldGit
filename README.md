@@ -34,4 +34,5 @@ Underline 2
 
 - <a href="http://google.com">Esto es un link en html</a>
 - [Esto es un link en Markdown](http://google.com)
+- [Esto es un link en Markdown](index.html)
 
