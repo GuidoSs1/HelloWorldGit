@@ -82,3 +82,28 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Maxi   | Burgos   | 23234242  |
 | Tomas  | Thompson | 24424424  |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+Aca se relaciona automaticamente con la cita
+
+Aca no se relaciona
+
+# Lineas divisoras(Horizontales)
+Esto es un texto que sera dividido por guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+Esto es otro texto dividido por guiones bajos.
+
+___
+
+# Saltos de linea / Line breaks
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
