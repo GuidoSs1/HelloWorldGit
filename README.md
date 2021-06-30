@@ -12,6 +12,10 @@ Underline 2
 ============
 
 # Formatos de Emphasis
+<<<<<<< HEAD
+=======
+
+>>>>>>> markdown
 - formato *italica* de la primer forma.
 - formato _italica_ de la segunda forma.
 - formato **bold o strong** de la primer forma.
@@ -20,6 +24,10 @@ Underline 2
 - aqui podemos usar formato *italico* pero tambien **bold** y ~~tachado~~.
 
 # Listas
+<<<<<<< HEAD
+=======
+
+>>>>>>> markdown
 1. Esto es un item de lista ordenada.
 2. Esto es un item de lista ordenada.
 3. Esto es un item de lista ordenada.
@@ -29,10 +37,15 @@ Underline 2
 - Esto es un item de lista desordenada.
 
 # Links
+<<<<<<< HEAD
+=======
+
+>>>>>>> markdown
 - <a href="http://google.com">Esto es un link en html</a>
 - [Esto es un link en Markdown](http://google.com)
 - [Esto es un link en Markdown](index.html)
 
+<<<<<<< HEAD
 # Imagenes
 ![Logo GitHub](https://img.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
 
@@ -107,3 +120,5 @@ Esto es nuestro primer parrafo.
 Esto es nuestro segundo parrafo.
 
 Esto es nuestro tercer parrafo.
+=======
+>>>>>>> markdown
