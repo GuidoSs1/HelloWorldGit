@@ -13,6 +13,10 @@ Underline 2
 
 # Formatos de Emphasis
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> markdown
 =======
 
 >>>>>>> markdown
@@ -25,6 +29,10 @@ Underline 2
 
 # Listas
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> markdown
 =======
 
 >>>>>>> markdown
@@ -38,6 +46,10 @@ Underline 2
 
 # Links
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> markdown
 =======
 
 >>>>>>> markdown
@@ -45,6 +57,7 @@ Underline 2
 - [Esto es un link en Markdown](http://google.com)
 - [Esto es un link en Markdown](index.html)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # Imagenes
 ![Logo GitHub](https://img.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
@@ -120,5 +133,7 @@ Esto es nuestro primer parrafo.
 Esto es nuestro segundo parrafo.
 
 Esto es nuestro tercer parrafo.
+=======
+>>>>>>> markdown
 =======
 >>>>>>> markdown
